@@ -1,0 +1,4 @@
+-Broken game over screen
+-Convoy doesn't work in the prologue
+-Probably something else
+If you find something let me know on FEU. Thanks!
